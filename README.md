@@ -58,6 +58,7 @@ Once the app is running, you will see a list of cities along with their correspo
 
 - **`App.tsx`**: The main application component that renders the `WorldClockApp`.
 - **`WorldClockApp.tsx`**: The component that contains the logic for displaying the time for different cities.
+- **`cities.ts`**: Defines the `City` interface and an array of cities with their respective UTC offsets.
 
 ## Contribution
 
